@@ -1,4 +1,4 @@
 JavaLearning
 ============
 
-Some Case for verify Java Function.
+Some Cases for verify Java Function.
